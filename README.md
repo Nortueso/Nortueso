@@ -13,8 +13,9 @@ def get_status(self):
 me = Developer()
 print(me.get_status()) 
 
----
+
 ```
+---
 ### 🛠 Tech Stack & Tools
 
 **Languages & Core:**  
@@ -39,5 +40,5 @@ print(me.get_status())
 
 ### 📬 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_рабочий_юзернейм)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HentaiMalchik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nortueso@gmail.com)
