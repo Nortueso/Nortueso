@@ -14,7 +14,7 @@ me = Developer()
 print(me.get_status()) 
 
 ---
-
+```
 ### 🛠 Tech Stack & Tools
 
 **Languages & Core:**  
