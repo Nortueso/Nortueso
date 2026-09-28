@@ -1,5 +1,8 @@
 # Hi there, I'm Nortueso👋
 
+
+YEAH, I USE MAC OS BTW
+
 ```python:
 
 class Developer:
