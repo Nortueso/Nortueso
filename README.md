@@ -30,7 +30,7 @@ YEAH, I USE MAC OS BTW
 ---
 ### 🛠 Tech Stack & Tools
 
-**Device
+**Device:**
 ![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)
 
 **Languages & Core:**  
