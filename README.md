@@ -24,6 +24,10 @@ print(me.get_status())
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
 
 **Frameworks & Libraries:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
