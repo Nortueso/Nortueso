@@ -30,6 +30,8 @@ YEAH, I USE MAC OS BTW
 ---
 ### 🛠 Tech Stack & Tools
 
+**site:** 
+https://nortueso.github.io/my-page/
 
 **Device:**
 
